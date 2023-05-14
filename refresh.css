@@ -1,0 +1,31 @@
+.container{
+    color: rgb(0, 0, 0);
+    padding: 2% 5%;
+    font-size: 2.5rem;
+    text-align: center;
+}
+body{
+    background-color: aquamarine;
+}
+.player{
+    font-size: 2rem;
+    margin: 3% 4%;
+
+}
+.row{
+    width: 100%;
+}
+.dice {
+    text-align: center;
+    font-size: 2rem;
+    margin: 0px;
+    width: 50%;
+    float: left;
+}
+.dice1{
+    text-align: center;
+    font-size: 2rem;
+    margin: 0px;
+    width: 50%;
+    float: right;
+}
